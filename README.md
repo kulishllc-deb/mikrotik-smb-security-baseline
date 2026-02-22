@@ -1,7 +1,3 @@
-# mikrotik-smb-security-baseline
-Practical security baseline configuration for MikroTik in SMB networks (segmentation, firewall, VPN, logging).
-# MikroTik Secure Baseline for SMB Networks
-
 This repository contains a practical, security-focused baseline for MikroTik routers deployed in small and mid-sized business (SMB) environments.
 
 ## Read the article
